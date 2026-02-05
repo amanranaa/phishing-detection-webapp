@@ -52,7 +52,7 @@ http://127.0.0.1:5000
 
 <img width="2171" height="1266" alt="Screenshot 2026-02-05 134259" src="https://github.com/user-attachments/assets/0f1c9eac-4153-4c50-8a5b-9f1975d45aa4" />
 
-📌 How It Works
+## 📌 How It Works
 The system analyzes:
 - Presence of IP address in URL
 - URL length
@@ -61,13 +61,13 @@ The system analyzes:
 If score ≥ threshold → Phishing
 Else → Legitimate
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 1. Machine Learning integration
 2. Blacklist API
 3. Domain age checker
 4. Deployment to cloud
 
-👨‍💻 Author
+## 👨‍💻 Author
 Aman Kumar Rana
 
 

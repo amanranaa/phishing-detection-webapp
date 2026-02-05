@@ -1,0 +1,3 @@
+http://192.168.0.1/login
+http://secure-login-update.com
+https://www.google.com
